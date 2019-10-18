@@ -8,7 +8,7 @@
         public DbSet<Shop>
             public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
-
+            
         }
                     
     }
