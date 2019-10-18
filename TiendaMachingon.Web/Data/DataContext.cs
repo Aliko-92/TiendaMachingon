@@ -1,6 +1,4 @@
-﻿
-
-namespace TiendaMachingon.Web.Data
+﻿namespace TiendaMachingon.Web.Data
 {
     using Microsoft.EntityFrameworkCore;
     using TiendaMachingon.Web.Data.Entities;
