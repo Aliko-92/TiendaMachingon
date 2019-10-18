@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{79
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaMachingon.Web", "TiendaMachingon.Web\TiendaMachingon.Web.csproj", "{BB74AE39-DDF3-4AA0-B507-EBA10F0BC1FB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classics", "Classics", "{FF6F6473-FA40-41D9-BA30-8EEDDB6F1FD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{C7705863-9175-4C7B-8306-61F9D99E74F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,8 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BB74AE39-DDF3-4AA0-B507-EBA10F0BC1FB} = {80F89DBC-5214-4838-AADC-1A0218FF278E}
+		{FF6F6473-FA40-41D9-BA30-8EEDDB6F1FD0} = {79D765C6-D156-4729-91D3-90BF5C0146B0}
+		{C7705863-9175-4C7B-8306-61F9D99E74F0} = {79D765C6-D156-4729-91D3-90BF5C0146B0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F75B1E11-FCA5-446D-BA10-64A193A72E3E}
