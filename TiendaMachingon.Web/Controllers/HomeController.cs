@@ -17,15 +17,20 @@ namespace TiendaMachingon.Web.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "A cerca de nosotros.";
 
             return View();
         }
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Nuestras redes sociales y números donde puedes contactarnos.";
 
+            return View();
+        }
+
+        public IActionResult Catalogo()
+        {
             return View();
         }
 
