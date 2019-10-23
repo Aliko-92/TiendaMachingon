@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaMachingon.Common", "TiendaMachingon.Common\TiendaMachingon.Common.csproj", "{B1D052C5-C696-41BF-825B-FCC57A185793}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaMachingon.Common", "TiendaMachingon.Common\TiendaMachingon.Common.csproj", "{B1D052C5-C696-41BF-825B-FCC57A185793}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{80F89DBC-5214-4838-AADC-1A0218FF278E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{79D765C6-D156-4729-91D3-90BF5C0146B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaMachingon.Web", "TiendaMachingon.Web\TiendaMachingon.Web.csproj", "{BB74AE39-DDF3-4AA0-B507-EBA10F0BC1FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaMachingon.Web", "TiendaMachingon.Web\TiendaMachingon.Web.csproj", "{BB74AE39-DDF3-4AA0-B507-EBA10F0BC1FB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classics", "Classics", "{FF6F6473-FA40-41D9-BA30-8EEDDB6F1FD0}"
 EndProject
@@ -19,15 +19,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaMachingon.UIForms.And
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaMachingon.UIForms.iOS", "TiendaMachingon.UIForms\TiendaMachingon.UIForms.iOS\TiendaMachingon.UIForms.iOS.csproj", "{60CA71FB-EEAC-4F82-A3BE-52E7C8FEDF5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaMachingon.UIForms", "TiendaMachingon.UIForms\TiendaMachingon.UIForms\TiendaMachingon.UIForms.csproj", "{CE1476F6-B54C-47AA-844D-0D1DB10E28CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaMachingon.UIForms", "TiendaMachingon.UIForms\TiendaMachingon.UIForms\TiendaMachingon.UIForms.csproj", "{CE1476F6-B54C-47AA-844D-0D1DB10E28CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaMachingon.UIClassic", "TiendaMachingon.UIClassic\TiendaMachingon.UIClassic.csproj", "{24C9EDD4-0E33-498B-B838-4A38A53676E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaMachingon.UIClassic", "TiendaMachingon.UIClassic\TiendaMachingon.UIClassic.csproj", "{24C9EDD4-0E33-498B-B838-4A38A53676E0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaMachingon.UIClassic.Android.Android", "TiendaMachingon.UIClassic.Android\TiendaMachingon.UIClassic.Android.Android\TiendaMachingon.UIClassic.Android.Android.csproj", "{8E83E61D-21DF-4894-B9F1-FBB0EDC6F86C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaMachingon.UIClassic.Android.iOS", "TiendaMachingon.UIClassic.Android\TiendaMachingon.UIClassic.Android.iOS\TiendaMachingon.UIClassic.Android.iOS.csproj", "{ABCD0E90-ACF3-4B7E-8F86-E90B957CC35F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaMachingon.UIClassic.Android", "TiendaMachingon.UIClassic.Android\TiendaMachingon.UIClassic.Android\TiendaMachingon.UIClassic.Android.csproj", "{E0758F08-C4E3-42A9-9AD7-B3E4B28E43DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaMachingon.UIClassic.Android", "TiendaMachingon.UIClassic.Android\TiendaMachingon.UIClassic.Android\TiendaMachingon.UIClassic.Android.csproj", "{E0758F08-C4E3-42A9-9AD7-B3E4B28E43DC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaMachingon.UIClassic.iOS", "TiendaMachingon.UIClassic.iOS\TiendaMachingon.UIClassic.iOS.csproj", "{22B5A376-5375-4473-8149-A2D33D5D1897}"
 EndProject
