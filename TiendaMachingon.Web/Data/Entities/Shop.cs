@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 
 namespace TiendaMachingon.Web.Data.Entities
 {
-    public class Shop
+    public class Shop: IEntity
     {
+        public int Id { get; set; }
         public int Customer { get; set; }
 
         public double Sale { get; set; }
