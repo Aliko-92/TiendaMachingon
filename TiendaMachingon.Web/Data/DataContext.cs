@@ -5,7 +5,7 @@
 
     public class DataContext:DbContext
     {
-        public DbSet<Shop>
+        public DbSet<Shop> Shops { get; set; }
             public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
             
