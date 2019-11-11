@@ -4,17 +4,12 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="TiendaMachingon.UIForms.MainPage">
-
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Bienvenido a Machingon by Jorge" 
-           HorizontalOptions="Center"
+             x:Class="TiendaMachingon.UIForms.Ezql">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label TextColor="Violet" Text="Bienvenido a Machingon by Ezequiel" 
+           HorizontalOptions="CenterAndExpand"
            VerticalOptions="CenterAndExpand" />
-        <Label Text="Bienvenido a Machingon by Alejandra" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-        
-    </StackLayout>
-
+        </StackLayout>
+    </ContentPage.Content>
 </ContentPage>
