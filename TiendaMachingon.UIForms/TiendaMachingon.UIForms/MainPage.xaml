@@ -11,6 +11,9 @@
         <Label Text="Bienvenido a Machingon by Jorge" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        <Label Text="Bienvenido a Machingon by Alejandra" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
     </StackLayout>
 
 </ContentPage>
