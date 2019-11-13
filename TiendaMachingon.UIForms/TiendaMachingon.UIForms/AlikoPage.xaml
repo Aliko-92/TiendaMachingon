@@ -11,6 +11,7 @@
           <Label Text="Bienvenido a Machingon by Alejandra" 
            HorizontalOptions="Center"
            BackgroundColor="Aquamarine"
+           TextColor="HotPink"
            FontSize="Small"
            Margin="25"
            HorizontalTextAlignment="Center" 
