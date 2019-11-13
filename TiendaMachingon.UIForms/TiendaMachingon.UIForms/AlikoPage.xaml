@@ -8,15 +8,26 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-          <Label Text="Bienvenido a Machingon by Alejandra" 
+        <Label Text="Bienvenido a Machingon by Alejandra" 
            HorizontalOptions="Center"
            BackgroundColor="Aquamarine"
            TextColor="HotPink"
            FontSize="Small"
            Margin="25"
-           HorizontalTextAlignment="Center" 
-           
-           VerticalOptions="CenterAndExpand" />
+           HorizontalTextAlignment="Center" />
+        <Label Text="Correo:" 
+           HorizontalOptions="Fill"
+           BackgroundColor="Pink"
+           FontSize="Small"               
+           VerticalOptions="Center" />
+           <Entry
+           Placeholder="Introduce algo"></Entry>
+           <Label Text="Contraseña:" 
+           HorizontalOptions="Fill"
+           BackgroundColor="Pink"
+           FontSize="Small"               
+           VerticalOptions="Center" />
+
 
     </StackLayout>
 
