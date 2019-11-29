@@ -4,12 +4,31 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="TiendaMachingon.UIForms.NathPage">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Bienvenido a Machingon by Nath!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
-    </ContentPage.Content>
+             x:Class="TiendaMachingon.UIForms.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Bienvenido a Machingon by Nath" 
+           HorizontalOptions="Center"
+           BackgroundColor="Blue"
+           TextColor="White"
+           FontSize="Medium"
+           Margin="15"
+           HorizontalTextAlignment="Center" />
+        <Label Text="email:" 
+           HorizontalOptions="Left"
+           BackgroundColor="Black"
+           FontSize="Small"               
+           VerticalOptions="Center" />
+        <Entry
+           Placeholder="Comunicate"></Entry>
+        <Label Text="Contraseña:" 
+           HorizontalOptions="Left"
+           BackgroundColor="Pink"
+           FontSize="Medium"               
+           VerticalOptions="Right" />
+
+
+    </StackLayout>
+
 </ContentPage>

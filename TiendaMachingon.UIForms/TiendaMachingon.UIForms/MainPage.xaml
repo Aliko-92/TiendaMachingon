@@ -8,13 +8,12 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Bienvenido a Machingon by Jorge" 
+        <Label Text="Bienvenido a Machingon by Nath" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
-        <Label Text="Bienvenido a Machingon by Alejandra" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+           
         
+
     </StackLayout>
 
 </ContentPage>
